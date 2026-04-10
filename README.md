@@ -1,13 +1,13 @@
 # Ritika-Devops
 
 <!-- 🔥 Banner -->
-<!-- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ritika%20&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p> -->
-
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ritika%20&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p> 
+
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20%20To%20My%20Profile&textBg=true&fontAlign=50&animation=scaleIn&descAlign=30" />
-</p>
+</p> -->
 
 
 <h1 align="center">Hi 👋, I'm Ritika</h1>
