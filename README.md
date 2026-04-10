@@ -2,7 +2,7 @@
 
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=WELCOME%20TO%20MY%20PROFILE&fontSize=30&fontColor=ADD8E6&animation=fadeIn" />
 </p> 
 
 <!-- <p align="center">
