@@ -6,7 +6,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://image2url.com/r2/default/images/1775797346129-08c52a5f-4b9e-4723-a658-f06fb5e483b7.png" alt="image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20%20To%20My%20Profile&textBg=true&fontAlign=50&animation=scaleIn&descAlign=30" />
 </p>
 
 
