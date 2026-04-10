@@ -6,7 +6,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://www.freepik.com/search?format=search&img=1&last_filter=img&last_value=1&type=vector&item_id=25225448" />
+  <img src="https://i.postimg.cc/mr4fHbnY/image.png" />
 </p>
 
 
