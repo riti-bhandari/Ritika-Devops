@@ -116,7 +116,7 @@
 ---
 
 ## 📊 GitHub Stats
-#Every commit per day streak grows, contributions= more commits, more PRs and more issue contributions increases, Longest streak= maintain streak for many days
+/*Every commit per day streak grows, contributions= more commits, more PRs and more issue contributions increases, Longest streak= maintain streak for many days/*
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riti-bhandari&show_icons=true&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com?user=riti-bhandari&theme=radical" width="48%" />
