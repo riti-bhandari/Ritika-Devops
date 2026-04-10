@@ -1,9 +1,14 @@
 # Ritika-Devops
 
 <!-- 🔥 Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ritika%20&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p> -->
+
+<p align="center">
+  <img src="https://www.freepik.com/search?format=search&img=1&last_filter=img&last_value=1&type=vector&item_id=25225448" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Ritika</h1>
 <h3 align="center">🚀 DevOps Engineer | Devops Engineer | Automation Enthusiast</h3>
