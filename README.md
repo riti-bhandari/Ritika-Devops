@@ -45,12 +45,12 @@
 
 ### ☁️ Cloud & Infra
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,terraform" />
+<img src="https://skillicons.dev/icons?i=aws,azure,terraform" />
 </p>
 
 ### 🐳 Containers & Orchestration
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,helm.argocd" />
 </p>
 
 ### 🔁 CI/CD & Automation
@@ -60,7 +60,7 @@
 
 ### 📊 Monitoring
 <p>
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,datadog" />
 </p>
 
 ### 🖥️ Scripting
