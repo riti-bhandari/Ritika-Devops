@@ -2,7 +2,7 @@
 
 <!-- 🔥 Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DevOps%20Enthusiast&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=DevOps%20Enthusiast&fontSize=20&fontColor=ffffff&animation=fadeIn" />
 </p> 
 
 <!-- <p align="center">
@@ -70,23 +70,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riti-bhandari&show_icons=true&theme=radical" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=riti-bhandari&theme=radical" width="48%" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riti-bhandari&theme=react-dark" />
-</p>
-
----
-
 ## 🏆 Achievements & Badges
 
 <p>
@@ -132,12 +115,29 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riti-bhandari&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=riti-bhandari&theme=radical" width="48%" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riti-bhandari&theme=react-dark" />
+</p>
+
+---
+
 ## ⚡ Fun Fact
 💡 Passionate about breaking down complex problems into simple solutions 🚀
 
 ---
 
 <!-- 🔥 Footer Banner -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
-</p>
+</p> -->
